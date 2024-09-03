@@ -94,7 +94,8 @@ https://en.wikipedia.org/wiki/Visual_Studio_Code
 
 
 ## TravisCI
-
+TravisCI is an integration service to test projects on Github and Bitbucket. It automatically detects when commits are made. When this happens, it will try to build and test the project with the new changes.
+https://medium.com/@williamwarley/a-complete-guide-to-travis-ci-with-templates-131e843270fb#:~:text=Travis%20CI%20is%20a%20hosted,the%20root%20of%20the%20repository.
 
 ## Bash (sh)
 
